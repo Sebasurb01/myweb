@@ -29,3 +29,4 @@ print(len(name+last_name))
 print(name.lower())
 print(name.upper())
 print(name.strip())
+s
